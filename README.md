@@ -19,6 +19,7 @@ Requirements
 How to Use
 
 1. Run the script:
+
 python youtube_downloader.py
 
 2. Enter a valid YouTube video URL when prompted.
@@ -28,10 +29,14 @@ python youtube_downloader.py
 4. The video will be downloaded to the selected location.
 
 
+
+
 Project Structure
+
 
 youtube_downloader.py   # Main script
 README.md               # Project documentation
+
 
 
 License
